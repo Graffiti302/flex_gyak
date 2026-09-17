@@ -1,0 +1,23 @@
+.card {
+  text-align: center;
+  background-color: gray;
+  color: beige;
+  border: 1px solid black;
+}
+h4 {
+  padding: 10px;
+  background-color: red;
+  margin: 20px;
+}
+nav {
+  background-color: lightgray;
+  height: 30px;
+  text-align: left;
+}
+a {
+  color: red;
+  border: 1px solid black;
+}
+article {
+  background-color: white;
+}
