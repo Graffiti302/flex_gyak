@@ -1,0 +1,14 @@
+article{
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+gap: 10px;
+justify-content: flex-start;
+align-items: stretch;
+
+}
+.card{
+flex: 1 1 100px;
+
+
+}

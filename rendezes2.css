@@ -6,11 +6,7 @@ article{
     
     }
     .card{
-    flex: 1 1 200px;
+    flex: 1 1 400px;
     
-    
-    }
-    body{
-    max-width: 800px;
     
     }
