@@ -2,12 +2,11 @@ article{
     display: flex;
     flex-direction: row-reverse;
     flex-wrap: wrap;
-    gap: 20px;
-    justify-content: center;
+    justify-content: space-around;
     align-items: flex-start;
     }
     .card{
-    flex: 0 0 400px;
+    flex: 0 0 33%;
     
     
     }

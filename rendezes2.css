@@ -2,11 +2,13 @@ article{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    gap: 20px;
+    justify-content: space-around;
+    gap: 3px;
+    align-items: stretch;
     
     }
     .card{
-    flex: 1 1 400px;
+    flex: 0 0 33%;
     
     
     }
